@@ -10,7 +10,6 @@ basic:
         - 1200
     pages:
         - /
-        - privacy-policy
     monitoring:
         days: {  }
         type: ''
