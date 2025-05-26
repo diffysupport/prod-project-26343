@@ -12,8 +12,8 @@ basic:
         - /
     monitoring:
         days: {  }
-        type: ''
-        schedule_time: '12:30 AM'
+        type: weekly
+        schedule_time: '06:30 AM'
         schedule_time_zone: Europe/London
         compare_with: last-production
         compare_with_fresh: production
